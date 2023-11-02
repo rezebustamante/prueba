@@ -12,10 +12,10 @@ package com.mycompany.mavenproject3excepciones;
 public class Mavenproject3Excepciones {
 
     public static void main(String[] args) {
-        /* int a = 10;
+        int a = 10;
         int b = 0;
         int resultado = a/b;
-        System.out.println(resultado);*/
+        System.out.println(resultado);
         
         /*int vector[] = new int [5];
         try 
